@@ -12,4 +12,3 @@
         r@ parity print_parity_result
     loop
 ;
-parity_test
