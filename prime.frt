@@ -21,4 +21,3 @@ include parity.frt
         r@ prime print_prime_result
     loop
 ;
-prime_test
