@@ -13,5 +13,3 @@ include prime.frt
         r@ prime_allot @ print_prime_result
     loop
 ;
-
-test_prime_allot
