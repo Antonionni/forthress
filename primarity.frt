@@ -8,6 +8,13 @@ include prime.frt
 
 : primarity
     dup ( value )
+    2 <
+    if
+        drop 0
+        exit
+    endif ( if numberr < 2 -> return false )
+    
+    dup ( value )
     prime 
     if
         drop 0 
