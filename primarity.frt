@@ -44,5 +44,3 @@ include prime.frt
         r@ primarity print_primarity_result
     loop
 ;
-
-primarity_test
